@@ -31,4 +31,4 @@ https://github.com/onyiglobal2025/github-devops-foundation-lab
 
 ##  Connect With Me
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/onyedika-okoro/
