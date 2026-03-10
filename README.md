@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Onyedika
 
-<!--
-**OnyiGlobal2025/onyiglobal2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer focused on building reliable infrastructure and automated deployment pipelines.
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- GitHub Actions
+- Linux
+- CI/CD Pipelines
+
+##  Featured Project
+
+### Production-Style CI/CD Pipeline
+
+Built a CI/CD workflow using GitHub Actions that includes:
+
+- Branch protection & PR workflow
+- Multi-stage Docker builds
+- Image publishing to GHCR
+- Version-based deployments
+- Scheduled deployment verification with health checks
+
+🔗 Repository:  
+https://github.com/onyiglobal2025/github-devops-foundation-lab
+
+---
+
+##  Connect With Me
+
+LinkedIn: https://linkedin.com/in/your-profile
