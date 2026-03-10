@@ -2,7 +2,7 @@
 
 Cloud & DevOps Engineer focused on building reliable infrastructure and automated deployment pipelines.
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 
 - AWS
 - Docker
