@@ -1,4 +1,4 @@
-# Hi, I'm Onyedika 👋
+# Hi, I'm Onyedika 
 
 ### Platform & Cloud Engineer — building the paved roads other engineers ship through
 
@@ -6,7 +6,7 @@ I design and operate production-grade platforms on AWS: self-service delivery, G
 
 ---
 
-## 🛠️ Core Stack
+##  Core Stack
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -21,7 +21,7 @@ I design and operate production-grade platforms on AWS: self-service delivery, G
 
 ---
 
-## 🚀 What I'm Building
+##  What I'm Building
 
 My portfolio runs on two tracks — **platform** (the systems engineers deliver through) and **reliability** (making sure those systems hold up).
 
@@ -45,15 +45,15 @@ End-to-end observability with OpenTelemetry instrumentation, the Grafana LGTM st
 
 ---
 
-## ✍️ I Write About What I Build
+##  I Write About What I Build
 
 I document each project in depth — architecture, decisions, and the things that broke along the way.
 
-📝 **Hashnode:** [onyiglobal2025.hashnode.dev](https://onyiglobal2025.hashnode.dev)
+ **Hashnode:** [onyiglobal2025.hashnode.dev](https://onyiglobal2025.hashnode.dev)
 
 ---
 
-## 📫 Connect
+##  Connect
 
 🔗 **LinkedIn:** [linkedin.com/in/onyedika-okoro](https://www.linkedin.com/in/onyedika-okoro/)
 🌐 **Portfolio:** [onyiglobal2025.github.io](https://onyiglobal2025.github.io)
